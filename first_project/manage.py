@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+#hello Moussa Git
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'first_project.settings')
     try:
